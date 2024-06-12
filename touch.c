@@ -7,6 +7,6 @@ if(n % 2 ==0)
 printf("the num is odd");
 }
 else
-printf("the num is  even")
+printf("the num is  even");
 return 0;
 }
